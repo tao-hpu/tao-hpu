@@ -41,50 +41,6 @@ me.say_hi()
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🧠 [Cognitive Workspace](https://github.com/tao-hpu/cognitive-workspace)**
-*Functional infinite context for LLMs through active memory management*
-
-[![Stars](https://img.shields.io/github/stars/tao-hpu/cognitive-workspace?style=flat-square&color=yellow)](https://github.com/tao-hpu/cognitive-workspace)
-[![arXiv](https://img.shields.io/badge/arXiv-2508.13171-b31b1b?style=flat-square)](https://arxiv.org/abs/2508.13171)
-
-</td>
-<td width="50%">
-
-**📋 [Nano Spec](https://github.com/tao-hpu/nano-spec)**
-*Spec-driven thinking, nano-sized docs for AI-assisted dev*
-
-[![Stars](https://img.shields.io/github/stars/tao-hpu/nano-spec?style=flat-square&color=yellow)](https://github.com/tao-hpu/nano-spec)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📚 [CHDA](https://github.com/tao-hpu/CHDA)**
-*Chinese Historical Documents Assistant - 中国历史文献推荐小助手*
-
-[![Stars](https://img.shields.io/github/stars/tao-hpu/CHDA?style=flat-square&color=yellow)](https://github.com/tao-hpu/CHDA)
-
-</td>
-<td width="50%">
-
-**🎨 [Cog Canvas](https://github.com/tao-hpu/cog-canvas)**
-*Training-free framework for long-term memory in LLM conversations*
-
-[![Stars](https://img.shields.io/github/stars/tao-hpu/cog-canvas?style=flat-square&color=yellow)](https://github.com/tao-hpu/cog-canvas)
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
