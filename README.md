@@ -4,6 +4,9 @@
 
 **`AI Researcher | LLM Memory Architect | Open Source Enthusiast`**
 
+<a href="https://fim.ai">
+  <img src="https://img.shields.io/badge/FIM-AI%20Solutions-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+</a>
 <a href="https://tao-hpu.github.io">
   <img src="https://img.shields.io/badge/Portfolio-tao--hpu.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>
