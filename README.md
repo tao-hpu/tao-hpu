@@ -73,8 +73,16 @@ me.say_hi()
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tao-hpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tao-hpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tao-hpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tao-hpu&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tao-hpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tao-hpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tao-hpu&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css,scss" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tao-hpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
+</picture>
 
 </div>
 
