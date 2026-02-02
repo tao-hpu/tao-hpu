@@ -31,7 +31,7 @@
 class TaoAn:
     def __init__(self):
         self.location = "Beijing, China"
-        self.company = "FIM (https://fim.ai)"
+        self.company = "FIM"
         self.role = "AI Researcher"
         self.interests = ["LLM Memory Systems", "Cognitive Architecture", "RAG"]
         self.current_focus = "Making LLMs remember everything (so I don't have to)"
