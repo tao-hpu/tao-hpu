@@ -67,7 +67,11 @@ me.say_hi()
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/tao-hpu/tao-hpu/snake/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tao-hpu/tao-hpu/snake/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tao-hpu/tao-hpu/snake/snake-light.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tao-hpu/tao-hpu/snake/snake-dark.svg" />
+</picture>
 
 </div>
 
