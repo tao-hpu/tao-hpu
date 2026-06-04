@@ -2,10 +2,13 @@
 
 # Hey, I'm Tao An 👋
 
-**`AI Researcher | LLM Memory Architect | Open Source Enthusiast`**
+**`Founder & CEO @ FIM Labs · MS AI · Enterprise AI Agents & Document Intelligence · China × Global`**
 
 <a href="https://fim.ai">
-  <img src="https://img.shields.io/badge/FIM-AI%20Solutions-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIM%20Labs-AI%20Solutions-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tao-hpu">
+  <img src="https://img.shields.io/badge/LinkedIn-tao--hpu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://tao-hpu.github.io">
   <img src="https://img.shields.io/badge/Portfolio-tao--hpu.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -13,8 +16,8 @@
 <a href="https://arxiv.org/abs/2508.13171">
   <img src="https://img.shields.io/badge/arXiv-2508.13171-b31b1b?style=flat-square&logo=arxiv&logoColor=white" />
 </a>
-<a href="mailto:tan1@my.hpu.edu">
-  <img src="https://img.shields.io/badge/Email-tan1%40my.hpu.edu-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="mailto:tao@fim.ai">
+  <img src="https://img.shields.io/badge/Email-tao%40fim.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
@@ -30,11 +33,13 @@
 ```python
 class TaoAn:
     def __init__(self):
-        self.location = "Beijing, China"
-        self.company = "FIM"
-        self.role = "AI Researcher"
-        self.interests = ["LLM Memory Systems", "Cognitive Architecture", "RAG"]
-        self.current_focus = "Making LLMs remember everything (so I don't have to)"
+        self.location = "Singapore × Beijing"
+        self.company = "FIM Labs"
+        self.role = "Founder & CEO"
+        self.education = "MS in Artificial Intelligence, Hawaii Pacific University (2026)"
+        self.interests = ["RAG", "LLM Memory Architectures", "Knowledge Graphs", "Agentic Workflows"]
+        self.current_focus = "Enterprise AI agents & document intelligence across the China × Global boundary"
+        self.belief = "Most 'AI agents' should be workflows — fix the plumbing before buying a bigger pump."
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together.")
@@ -58,6 +63,20 @@ me.say_hi()
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it is |
+|---------|-----------|
+| **[CogCanvas](https://github.com/tao-hpu/cog-canvas)** | Training-free long-term memory for LLM conversations — extracts verbatim-grounded artifacts into a queryable graph. **32.4%** on LoCoMo (+7.8pp vs RAG). |
+| **[nano-spec](https://github.com/tao-hpu/nano-spec)** | Spec-driven thinking, nano-sized docs — minimal-but-sufficient specs that AI coding assistants can act on reliably. ⭐ 45+ |
+| **[FIM One](https://github.com/fim-ai/fim-one)** | Open-source AI agent platform that embeds as a Copilot or connects systems as a Hub — bridging global SaaS with the China enterprise stack. |
 
 </div>
 
@@ -110,11 +129,18 @@ me.say_hi()
 
 <div align="center">
 
-**📖 Latest Research**
+**📖 Selected Research**
 
-*"Cognitive Workspace: Towards Functional Infinite Context Through Active Memory Management"*
+📄 **AI as Equalizer or Amplifier? Task Complexity as the Moderating Factor for Human Expertise in Hybrid Intelligence Systems**
+*Accepted at HHAI 2026 — 5th Int'l Conference on Hybrid Human-Artificial Intelligence (Munich, Jul 2026)*
 
-[![Read Paper](https://img.shields.io/badge/Read%20Paper-arXiv%3A2508.13171-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.13171)
+🧠 **CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations**
+*arXiv preprint, 2026 — 32.4% on LoCoMo (+7.8pp vs RAG), +20.6pp on temporal reasoning*
+
+♾️ **Cognitive Workspace: Towards Functional Infinite Context Through Active Memory Management**
+*[arXiv:2508.13171](https://arxiv.org/abs/2508.13171)*
+
+[![Latest Paper](https://img.shields.io/badge/Latest%20Paper-arXiv%3A2508.13171-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.13171)
 
 </div>
 
