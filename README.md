@@ -16,6 +16,12 @@
 <a href="https://arxiv.org/abs/2508.13171">
   <img src="https://img.shields.io/badge/arXiv-2508.13171-b31b1b?style=flat-square&logo=arxiv&logoColor=white" />
 </a>
+<a href="https://scholar.google.com/citations?user=HBIPWm4AAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-HBIPWm4AAAAJ-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+</a>
+<a href="https://orcid.org/0009-0006-2933-0320">
+  <img src="https://img.shields.io/badge/ORCID-0009--0006--2933--0320-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+</a>
 <a href="mailto:tao@fim.ai">
   <img src="https://img.shields.io/badge/Email-tao%40fim.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
