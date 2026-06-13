@@ -137,16 +137,9 @@ me.say_hi()
 
 **📖 Selected Research**
 
-📄 **AI as Equalizer or Amplifier? Task Complexity as the Moderating Factor for Human Expertise in Hybrid Intelligence Systems**
-*Accepted at HHAI 2026 — 5th Int'l Conference on Hybrid Human-Artificial Intelligence (Munich, Jul 2026)*
+For my latest papers and research, visit my website 👉 **[tao-hpu.github.io](https://tao-hpu.github.io/)**
 
-🧠 **CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations**
-*arXiv preprint, 2026 — 32.4% on LoCoMo (+7.8pp vs RAG), +20.6pp on temporal reasoning*
-
-♾️ **Cognitive Workspace: Towards Functional Infinite Context Through Active Memory Management**
-*[arXiv:2508.13171](https://arxiv.org/abs/2508.13171)*
-
-[![Latest Paper](https://img.shields.io/badge/Latest%20Paper-arXiv%3A2508.13171-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.13171)
+[![Website](https://img.shields.io/badge/Research%20%26%20Publications-tao--hpu.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tao-hpu.github.io/)
 
 </div>
 
