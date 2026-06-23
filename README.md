@@ -137,9 +137,9 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude-light" />
-    <img src="https://ccmap.fim.ai/u/taotao.svg?theme=claude" alt="coding heatmap" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude&anim=ember&weeks=53" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude-light&anim=ember&weeks=53" />
+    <img src="https://ccmap.fim.ai/u/taotao.svg?theme=claude&anim=ember&weeks=53" alt="coding heatmap" />
   </picture>
 </div>
 
