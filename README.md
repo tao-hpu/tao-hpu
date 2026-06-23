@@ -133,6 +133,18 @@ me.say_hi()
 
 ---
 
+### 🔥 Coding Heatmap
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ccmap.fim.ai/u/taotao.svg?theme=claude-light" />
+    <img src="https://ccmap.fim.ai/u/taotao.svg?theme=claude" alt="coding heatmap" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 **📖 Selected Research**
