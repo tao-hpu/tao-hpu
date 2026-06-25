@@ -161,6 +161,4 @@ For my latest papers and research, visit my website 👉 **[tao-hpu.github.io](h
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tao-hpu&style=flat-square&color=blueviolet)
 
-*"The best way to predict the future is to invent it."* — Alan Kay
-
 </div>
