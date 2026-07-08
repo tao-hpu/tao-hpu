@@ -84,9 +84,13 @@ me.say_hi()
 | **[nano-spec](https://github.com/tao-hpu/nano-spec)** | Spec-driven thinking, nano-sized docs — minimal-but-sufficient specs that AI coding assistants can act on reliably. ⭐ 45+ |
 | **[FIM One](https://github.com/fim-ai/fim-one)** | Open-source AI agent platform that embeds as a Copilot or connects systems as a Hub — bridging global SaaS with the China enterprise stack. |
 
-<sub>Also chipping in upstream now and then — e.g. a [nested agent-tool state-restoration fix](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606) co-authored into `openai/openai-agents-python`.</sub>
-
 </div>
+
+---
+
+### 🌱 Upstream Contributions
+
+- **`Merged`** &nbsp;[openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/3749) — fixed a resume-time bug where a pending nested agent-tool approval could bind to the wrong tool call after an earlier entry was filtered out. Root-caused with a failing regression test; [co-authored into `main`](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606).
 
 ---
 
