@@ -22,6 +22,9 @@
 <a href="https://orcid.org/0009-0006-2933-0320">
   <img src="https://img.shields.io/badge/ORCID-0009--0006--2933--0320-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
 </a>
+<a href="https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606">
+  <img src="https://img.shields.io/badge/Contributor-openai%2Fopenai--agents--python-412991?style=flat-square&logo=openai&logoColor=white" />
+</a>
 <a href="mailto:tao@fim.ai">
   <img src="https://img.shields.io/badge/Email-tao%40fim.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
