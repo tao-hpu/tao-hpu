@@ -22,9 +22,6 @@
 <a href="https://orcid.org/0009-0006-2933-0320">
   <img src="https://img.shields.io/badge/ORCID-0009--0006--2933--0320-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
 </a>
-<a href="https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606">
-  <img src="https://img.shields.io/badge/Contributor-openai%2Fopenai--agents--python-412991?style=flat-square&logo=openai&logoColor=white" />
-</a>
 <a href="mailto:tao@fim.ai">
   <img src="https://img.shields.io/badge/Email-tao%40fim.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
@@ -86,6 +83,8 @@ me.say_hi()
 | **[CogCanvas](https://github.com/tao-hpu/cog-canvas)** | Training-free long-term memory for LLM conversations — extracts verbatim-grounded artifacts into a queryable graph. **32.4%** on LoCoMo (+7.8pp vs RAG). |
 | **[nano-spec](https://github.com/tao-hpu/nano-spec)** | Spec-driven thinking, nano-sized docs — minimal-but-sufficient specs that AI coding assistants can act on reliably. ⭐ 45+ |
 | **[FIM One](https://github.com/fim-ai/fim-one)** | Open-source AI agent platform that embeds as a Copilot or connects systems as a Hub — bridging global SaaS with the China enterprise stack. |
+
+<sub>Also chipping in upstream now and then — e.g. a [nested agent-tool state-restoration fix](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606) co-authored into `openai/openai-agents-python`.</sub>
 
 </div>
 
