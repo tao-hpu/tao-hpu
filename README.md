@@ -74,9 +74,21 @@ me.say_hi()
 
 ---
 
-### 🌱 Upstream Contributions
+### 🌱 Selected contributions
 
-- **`Merged`** &nbsp;[openai/openai-agents-python](https://github.com/openai/openai-agents-python/pull/3749) — fixed a resume-time bug where a pending nested agent-tool approval could bind to the wrong tool call after an earlier entry was filtered out. Root-caused with a failing regression test; [co-authored into `main`](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606).
+**Product**
+
+- **[fim-ai/fim-one](https://github.com/fim-ai/fim-one)** — open-source agent platform for Global × China enterprises (self-hosted, any LLM). Day-job / company product I build and ship.
+
+**Upstream (external)**
+
+- **`openai/openai-agents-python`** — found a resume-time bug where a pending nested agent-tool approval could bind to the wrong tool call after an earlier entry was filtered out ([#3749](https://github.com/openai/openai-agents-python/pull/3749): analysis + patch + regression test). Maintainer re-landed a source-level fix as [#3753](https://github.com/openai/openai-agents-python/pull/3753) with [`Co-authored-by: Tao An`](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606).
+
+**Original research / tools**
+
+- **[cognitive-workspace](https://github.com/tao-hpu/cognitive-workspace)** — active memory / functional infinite-context architecture for LLMs.
+- **[nano-spec](https://github.com/tao-hpu/nano-spec)** — lightweight task-spec format for AI-assisted development.
+- **[cog-canvas](https://github.com/tao-hpu/cog-canvas)** — training-free long-term memory for LLM conversations.
 
 ---
 
