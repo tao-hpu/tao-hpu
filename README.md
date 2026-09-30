@@ -22,6 +22,9 @@
 <a href="https://orcid.org/0009-0006-2933-0320">
   <img src="https://img.shields.io/badge/ORCID-0009--0006--2933--0320-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
 </a>
+<a href="https://dblp.org/pid/10/2015-1">
+  <img src="https://img.shields.io/badge/DBLP-Tao%20An%200001-004F9F?style=flat-square&logo=dblp&logoColor=white" />
+</a>
 <a href="mailto:tao@fim.ai">
   <img src="https://img.shields.io/badge/Email-tao%40fim.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
