@@ -168,10 +168,3 @@ For my latest papers and research, visit my website 👉 **[tao-hpu.github.io](h
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tao-hpu&style=flat-square&color=blueviolet)
-
-</div>
