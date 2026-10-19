@@ -98,6 +98,8 @@ me.say_hi()
 - **[cognitive-workspace](https://github.com/tao-hpu/cognitive-workspace)** — active memory / functional infinite-context architecture for LLMs.
 - **[nano-spec](https://github.com/tao-hpu/nano-spec)** — lightweight task-spec format for AI-assisted development.
 - **[cog-canvas](https://github.com/tao-hpu/cog-canvas)** — training-free long-term memory for LLM conversations.
+- **[consensus-dispersion](https://github.com/tao-hpu/consensus-dispersion)** — code and data for the TMLR 2026 paper *Consensus Density Predicts Output Dispersion in Aligned LLMs* (with Shuai Feng): judge-scored consensus density, scored from the prompt alone, predicts how widely an aligned model's repeated completions disperse (Spearman ρ = −0.91, n = 20); `probe/verify_headline.py` re-checks all 138 reported numbers from the raw data.
+- **[ccmap](https://github.com/tao-hpu/ccmap)** — coding heatmap for Claude Code + Codex: scans local usage and renders a GitHub-style heatmap badge (the one below) plus a shareable HTML report.
 
 ---
 
