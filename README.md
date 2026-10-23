@@ -85,6 +85,8 @@ me.say_hi()
 
 **Upstream (external)**
 
+I've contributed merged fixes to upstream projects such as Docling, the OpenAI Agents SDK, and acme.sh — [full list](https://tao-hpu.github.io/opensource#upstream-contributions).
+
 - **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ![stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square&label=&color=343b42) — two bugs in how a paused run is restored from serialized state:
   - [#5142](https://github.com/openai/openai-agents-python/pull/5142) (merged, [`ad93f54`](https://github.com/openai/openai-agents-python/commit/ad93f5420edfecb30c6d2bc3a1a22047918cba1a)): a nested agent-as-tool run serializes its agent references relative to the tool's own agent, but resumption resolved them against the parent, so with two same-named agents a pending approval silently never applied. Root cause, 7-line fix, 218 lines of regression tests.
   - [#3749](https://github.com/openai/openai-agents-python/pull/3749): a pending nested approval could bind to the wrong tool call once an earlier entry was filtered out. The maintainer re-landed it at source level as [#3753](https://github.com/openai/openai-agents-python/pull/3753) with [`Co-authored-by: Tao An`](https://github.com/openai/openai-agents-python/commit/60d3f95219654d68e0a43789ecbd600e38ee2606).
